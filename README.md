@@ -49,7 +49,7 @@ A WiFi-connected gas leakage alarm system using an ESP8266, MQ-5 gas sensor, buz
 
 ## 🔧 Configuration
 
-In `main.ino`, set your WiFi and email credentials:
+In `firmware.ino`, set your WiFi and email credentials:
 
 ```cpp
 #define WIFI_SSID "YOUR_WIFI_SSID"
